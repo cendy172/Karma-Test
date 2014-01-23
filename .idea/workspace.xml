@@ -64,10 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shoppingcart.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="shoppingcart.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angularjs/js/shoppingcart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="49" selection-start="859" selection-end="859" vertical-scroll-proportion="0.53645116" vertical-offset="0" max-vertical-offset="727">
+            <state line="26" column="49" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.061898213" vertical-offset="0" max-vertical-offset="727">
               <folding />
             </state>
           </provider>
@@ -115,6 +124,7 @@
         <option value="$PROJECT_DIR$/config/karma.e2e.config.js" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/angularjs/js/shoppingcart.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -174,38 +184,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Karma-Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Karma-Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angularjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Karma-Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Karma-Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angularjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -218,7 +196,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Angular-test/angular-sample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeKata" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -728,7 +706,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angularjs/js/shoppingcart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="49" selection-start="859" selection-end="859" vertical-scroll-proportion="0.53645116" vertical-offset="0" max-vertical-offset="727">
+        <state line="26" column="49" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.061898213" vertical-offset="0" max-vertical-offset="727">
           <folding />
         </state>
       </provider>
