@@ -8,7 +8,7 @@ module.exports = function(config) {
             'angularjs/angular.min.js',
             'angularjs/lib/angular-mocks.js',
             'angularjs/js/shoppingcart.js',
-            'test/shoppingcart.spect.js'
+            'test/shoppingcart.spec.js'
         ],
         port : 9876,
         browsers : ["Chrome"],
